@@ -3,6 +3,6 @@ terraform {
     bucket = "mydev-project-terraform-sample-pallavi"
     key = "main"
     region = "us-east-1"
-    dynamodb_table = "my-dynamodb-table"
+    dynamodb_table = "my-dynamodb-table-1"
   }
 }
